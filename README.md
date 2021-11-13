@@ -2,4 +2,4 @@
 
 # image
 
-<img src="public/assets/images/fit.png
+<img src="public/assets/images/fit.png">
